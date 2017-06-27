@@ -1,0 +1,35 @@
+{
+  "name": "todo-mean-stack",
+  "version": "1.0.0",
+  "description": "Single Page TODO Application using MEAN stack",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitnasser/todo-mean-stack.git"
+  },
+  "keywords": [
+    "todo",
+    "mean",
+    "mongodb",
+    "expressjs",
+    "nodejs",
+    "angularjs"
+  ],
+  "author": "aitnasser@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aitnasser/todo-mean-stack/issues"
+  },
+  "homepage": "https://github.com/aitnasser/todo-mean-stack#readme"
+}
