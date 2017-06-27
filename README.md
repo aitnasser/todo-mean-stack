@@ -18,17 +18,11 @@ $ git clone https://github.com/aitnasser/todo-mean-stack.git
 $ npm install
 ```
 
-3- Install the frontend dependencies :
-
-```sh
-$ bower install
-```
-
-4- Start the server :
+3- Start the server :
 
 ```sh
 $ node server.js
 ```
 
-5-View in browser at http://localhost:3000
+4-View in browser at http://localhost:3000
 
